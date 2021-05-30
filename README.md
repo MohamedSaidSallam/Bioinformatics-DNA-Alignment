@@ -5,8 +5,11 @@
 
 A simple python script to get the global alignment using either Dot Matrix (Window) or Needman-Wunch, or local alignment using Smith-Waterman.
 
-
 Done as an assignment to CSE449: Bioinformatics @ Ain Shams University.
+
+## Example Output
+
+![Example](./Example.png)
 
 ## Getting A local copy running
 
